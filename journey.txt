@@ -1,0 +1,18 @@
+How to install cypress?
+
+npm -i init
+npm install cypress --save-dev
+npx cypress open 
+
+website
+trello. api. introduction
+
+
+
+//api key: c2afc90e77f3f1b538da0ca9ea3eb5b1
+
+
+//secret :  3bd958fb5b6b2acf39077cfe3ec942172f86d8fe991ffe2721b33ddc3111fe8f
+
+
+//token :  ATTAdd6813a8f5a1e224b6dace3253f3a749213841384e859c1fbb8adbd8e29454f855A91515
